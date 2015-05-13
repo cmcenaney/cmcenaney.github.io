@@ -6,6 +6,12 @@
 	font-weight:300;
 }
 
+h1{
+	font-weight:100;
+	font-family: "Roboto", sans-serif;
+	margin-bottom:-20px;
+}
+
 img{
 	height: 200px;
 	width: 200px;
@@ -24,18 +30,42 @@ img{
 	margin-right:0px;
 }
 
-.name a{
+a{
 	text-decoration: none;
 	color:#000;
-	font-weight: 200;
+
 	margin-bottom:-10px;
+	
 }
 
-.name a:hover{
+h3{
+	font-weight: 200;
+}
+
+
+
+a:hover{
 	color:#999;
 }
 
-#intro{
-	text-align: center;
+
+
+img.icon{
+	width:20px;
+	height:20px;
+	float:left;
+	margin:20px 5px 20px 0px;
+}
+
+.fa{
+	color:#000;
+}
+
+.fa:hover{
+	color:#999;
+}
+
+.extra-icons{
+	margin-bottom:20px;
 }
 
