@@ -1,0 +1,49 @@
+[
+	{
+		"name":"Medical Money",
+		"date":"Oct. 7, 2014",
+		"img":"img/medicalmoney.png",
+		"link":"http://graphics.wsj.com/medical-money/"
+	},
+	{
+		"name":"Oil:Tracking Crude's Collapse",
+		"date":"Apr. 6, 2015",
+		"img":"img/oil.png",
+		"link":"http://graphics.wsj.com/tracking-crude-collapse/"
+	},
+	{
+		"name":"Spot the Ball",
+		"date":"June 14, 2014",
+		"img":"img/spottheball.png",
+		"link":"http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17"
+	},
+	{
+		"name":"Excerpts from FTC Google Report",
+		"date":"Mar. 19, 2015",
+		"img":"img/google.png",
+		"link":"http://graphics.wsj.com/ftc-google-report/"
+	},
+	{
+		"name":"The Data Mining of Emotions",
+		"date":"Jan. 28, 2015",
+		"img":"img/emotions.png",
+		"link":"http://graphics.wsj.com/data-mining-of-emotions/"
+	},
+	{
+		"name":"I Dos and Don'ts",
+		"date":"June 28, 2013",
+		"img":"img/dosanddont.png",
+		"link":"http://graphics.wsj.com/i-dos-and-donts/"
+	},
+	{
+		"name":"WSJ Christmas Sale Tracker",
+		"date":"Nov. 9, 2014",
+		"img":"img/tracker.png",
+		"link":"http://graphics.wsj.com/Christmas-Sale-Tracker/"
+	},
+	{
+		"name":"Best of the World Cup",
+		"img":"img/bestof.png",
+		"link":"http://www.nytimes.com/interactive/2014/sports/worldcup/best-of-world-cup.html?_r=0"
+	}
+]
