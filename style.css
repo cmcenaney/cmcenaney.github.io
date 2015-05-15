@@ -1,71 +1,100 @@
-.container{
-	width:90%;
-	margin:0 auto;
+body {
+   margin: 0;
+   padding: 0;
+  	font-weight:200;
+  	font-size:16px;
+   font-family: 'Roboto',sans-serif;
+}
+.wrap {
+
 	max-width:960px;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-weight:300;
+   overflow: hidden;
+   margin: 0 auto;
+   padding-left:20px;
 }
-
-h1{
-	font-weight:100;
-	font-family: "Roboto", sans-serif;
-	margin-bottom:-20px;
+.box {
+   float: left;
+   position: relative;
+   width: 25%;
+ 
 }
-
-img{
-	height: 200px;
-	width: 200px;
-	background-size: cover;
-	background-position: center;
-	display: inline-block;
+.boxInner {
+   margin-right: 20px
 }
-
-.item{
+.main-image{
+   width: 100%;
+   border:.5px solid #ccc;
+	margin:10px 0px 0px 0px;
+	-webkit-box-shadow: 2px 2px 10px 0px #ccc;
+	box-shadow: 2px 2px 10px 0px #ccc;
+}
+.boxInner .titleBox {
 	float:left;
-	width:22%;	
-	margin-right:20px;
+  margin:15px 0px 20px 0px;
+
 }
 
-.item:nth-child(3){
-	margin-right:0px;
+
+
+.titleBox img{
+	width:20px;
+	height:20px;
+	margin-right:5px;
+	
+	float: left;
+
+}
+
+.titleBox p{
+	display:inline;
+	text-indent:-1.5em;
 }
 
 a{
-	text-decoration: none;
 	color:#000;
-
-	margin-bottom:-10px;
-	
+	text-decoration: none;
 }
-
-h3{
-	font-weight: 200;
-}
-
-
 
 a:hover{
 	color:#999;
 }
 
-
-
-img.icon{
-	width:20px;
-	height:20px;
-	float:left;
-	margin:20px 5px 20px 0px;
+body.no-touch .boxInner:hover .titleBox, body.touch .boxInner.touchFocus .titleBox {
+   margin-bottom: 0;
+}
+@media only screen and (max-width : 480px) {
+   /* Smartphone view: 1 tile */
+   .box {
+      width: 100%;
+     
+   }
+}
+@media only screen and (max-width : 705px) and (min-width : 481px) {
+   /* Tablet view: 2 tiles */
+   .box {
+      width: 50%;
+    
+   }
 }
 
-.fa{
-	color:#000;
+@media only screen and (max-width : 799px) and (min-width : 706px) {
+   /* Small desktop / ipad view: 3 tiles */
+   .box {
+      width: 50%;
+      
+   }
 }
-
-.fa:hover{
-	color:#999;
+@media only screen and (max-width : 1050px) and (min-width : 799px) {
+   /* Small desktop / ipad view: 3 tiles */
+   .box {
+      width: 33.3%;
+      
+   }
 }
-
-.extra-icons{
-	margin-bottom:20px;
+@media only screen and (max-width : 1290px) and (min-width : 1051px) {
+   /* Medium desktop: 4 tiles */
+   .box {
+      width: 25%;
+    
+   }
 }
-
