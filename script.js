@@ -16,4 +16,20 @@ $(document).ready(function(){
 			);
 		});
 	});
+
+	$.getJSON('resume.json', function(data){
+		$.each(data, function(i,item){
+			$('.resume-items').append(
+				'<div class="resume-box">'+
+					'<h2>'+item.place+'</h2>'+
+					'<p>'+item.position+'</p>'+
+					'<p>'+item.date+'</p>'+
+					'<ul>'+
+						'<li>'+item.desc1+'</li>'+
+						'<li>'+item.desc2+'</li>'+
+					'</ul>'+
+				'</div>'
+			);
+		});
+	});
 });
