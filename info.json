@@ -1,5 +1,12 @@
 [
 	{
+		"name":"Six Faces in the Race to Pump More Oil",
+		"date":"Oct. 7, 2014",
+		"img":"img/globaloil.png",
+		"icon":"img/wsjicon.png",
+		"link":"http://graphics.wsj.com/global-oil-men/"
+	},
+	{
 		"name":"Medical Money",
 		"date":"Oct. 7, 2014",
 		"img":"img/medicalmoney.png",
@@ -12,13 +19,6 @@
 		"img":"img/oil.png",
 		"icon":"img/wsjicon.png",
 		"link":"http://graphics.wsj.com/tracking-crude-collapse/"
-	},
-	{
-		"name":"Excerpts from FTC Google Report",
-		"date":"Mar. 19, 2015",
-		"img":"img/google.png",
-		"icon":"img/wsjicon.png",
-		"link":"http://graphics.wsj.com/ftc-google-report/"
 	},
 	{
 		"name":"WSJ Christmas Sale Tracker",
