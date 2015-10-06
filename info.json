@@ -1,8 +1,15 @@
 [
 	{
+		"name":"Activist Investor Report Card",
+		"date":"Oct. 7, 2014",
+		"img":"img/activism.jpg",
+		"icon":"img/wsjicon.png",
+		"link":"http://graphics.wsj.com/activist-investor/"
+	},
+	{
 		"name":"Six Faces in the Race to Pump More Oil",
 		"date":"Oct. 7, 2014",
-		"img":"img/globaloil.png",
+		"img":"img/oil.jpg",
 		"icon":"img/wsjicon.png",
 		"link":"http://graphics.wsj.com/global-oil-men/"
 	},
@@ -12,13 +19,6 @@
 		"img":"img/medicalmoney.png",
 		"icon":"img/wsjicon.png",
 		"link":"http://graphics.wsj.com/medical-money/"
-	},
-	{
-		"name":"Oil:Tracking Crude's Collapse",
-		"date":"Apr. 6, 2015",
-		"img":"img/oil.png",
-		"icon":"img/wsjicon.png",
-		"link":"http://graphics.wsj.com/tracking-crude-collapse/"
 	},
 	{
 		"name":"WSJ Christmas Sale Tracker",
