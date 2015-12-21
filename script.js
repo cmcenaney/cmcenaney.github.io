@@ -2,14 +2,14 @@ $(document).ready(function(){
 	$.getJSON('info.json', function(data){
 		$.each(data, function(i,item){
 			$('.items').append(
-				'<div class="box">'+
+				'<div class="col-md-4 box">'+
 					'<a href="'+item.link+'" target="_blank">'+
 						'<div class="boxInner">'+
-							'<img class="main-image" src="'+item.img+'"></img>'+
 							'<div class="titleBox">'+
 								'<img src="'+item.icon+'"/>'+
 								'<p>'+item.name+'</p>'+
 							'</div>'+
+							'<img class="main-image" src="'+item.img+'"></img>'+
 						'</div>'+
 					'</a>'+
 				'</div>'

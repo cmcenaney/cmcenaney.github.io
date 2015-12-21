@@ -7,21 +7,21 @@
 		"link":"http://graphics.wsj.com/activist-investor/"
 	},
 	{
-		"name":"Six Faces in the Race to Pump More Oil",
+		"name":"The Race to Pump More Oil",
 		"date":"Oct. 7, 2014",
 		"img":"img/oil.jpg",
 		"icon":"img/wsjicon.png",
 		"link":"http://graphics.wsj.com/global-oil-men/"
 	},
 	{
-		"name":"Medical Money",
-		"date":"Oct. 7, 2014",
-		"img":"img/medicalmoney.png",
-		"icon":"img/wsjicon.png",
-		"link":"http://graphics.wsj.com/medical-money/"
+		"name":"Asia's 'Missing Women' Problem", 
+		"img":"img/missingwomen.png", 
+		"icon":"img/wsjicon.png", 
+		"link":"http://www.wsj.com/articles/asia-struggles-for-a-solution-to-its-missing-women-problem-1448545813?tesla=y#"
 	},
+	
 	{
-		"name":"WSJ Christmas Sale Tracker",
+		"name":"Christmas Sale Tracker",
 		"date":"Nov. 9, 2014",
 		"img":"img/tracker.png",
 		"icon":"img/wsjicon.png",
@@ -53,5 +53,13 @@
 		"img":"img/dosanddont.png",
 		"icon":"img/wsjicon.png",
 		"link":"http://graphics.wsj.com/i-dos-and-donts/"
+	},
+	{
+		"name":"Medical Money",
+		"date":"Oct. 7, 2014",
+		"img":"img/medicalmoney.png",
+		"icon":"img/wsjicon.png",
+		"link":"http://graphics.wsj.com/medical-money/"
 	}
+	
 ]
