@@ -1,0 +1,129 @@
+[
+  {
+    "date": "02/03/18",
+    "name": "Process Explainers",
+    "link": "https://www.nytimes.com/2023/01/23/us/politics/kevin-mccarthy-marjorie-taylor-greene.html",
+    "org": "NYT",
+    "img": "nytmodule.png",
+    "desc": "As a member of the Trust team, I implemented a tool that enables editors to create journalistic process explainers to provide context within news stories. I also upgraded an application to enable automatic insertion of these explainers into stories based on specific keywords and phrases."
+  },
+  {
+    "date": "02/03/18",
+    "name": "Behind the Journalism",
+    "link": "https://www.nytimes.com/explain/2022/new-york-times-journalism",
+    "org": "NYT",
+    "img": "nytbehind.png",
+    "desc": "I coded a new design for our Behind the Journalism landing page which provides information on the Times' policies and processes."
+  },
+  {
+    "date": "02/03/18",
+    "name": "60 Decibels",
+    "link": "https://app.60decibels.com/",
+    "org": "SD",
+    "img": "sixtydb.png",
+    "desc": "I helped build and launch a new social impact measurement platform serving clients on five continents. The application allows clients to create their own surveys using our question modules, access impact reports, communicate with our team and benchmark their performance among peers."
+  },
+  {
+    "date": "02/03/18",
+    "name": "Listening in the time of COVID-19",
+    "link": "https://app.60decibels.com/covid-19",
+    "org": "SD",
+    "img": "sixtydbcovid.png",
+    "desc": "We spoke to 25,000 people in 19 countries about how Covid-19 has affected their lives. I built a fully self-serve platform in three weeks to scale service team work and enable them to produce new public and private dashboards. This system is being expanded to support data products for all clients."
+  },
+  {
+    "date": "02/03/18",
+    "name": "Perceiving Yemen",
+    "link": "https://data4change.github.io/ypc/",
+    "org": "D4C",
+    "img": "d4c.png",
+    "desc": "I worked on a team of designers and developers to create this bilingual prototype as part of Data4Change's 2018 workshop in Beirut. We visualized Yemen Polling Center's survey data, and made the site available offline."
+  },
+  {
+    "date": "04/03/18",
+    "name": "Mind the Gender Pay Gap",
+    "link": "http://www.wsj.com/graphics/uk-pay-gap/",
+    "org": "WSJ",
+    "img": "paygap.jpg",
+    "desc": "The U.K. asked companies to disclose their gender-pay gap. The first-of-its-kind requirement opens a rare window into pay discrepancies at large firms."
+  },
+  {
+    "date": "01/08/18",
+    "name": "How a Migration Wave Drove Brexit and Why It Is Now Receding, in 8 Charts",
+    "link": "https://www.wsj.com/articles/how-a-migration-wave-drove-brexit-and-why-it-is-now-receding-in-8-charts-1515414601",
+    "img": "migration.jpg",
+    "org": "WSJ",
+    "desc": "We analyzed how migration drove the Brexit vote and the economic consequences for the U.K. now that many of those migrants are leaving."
+  },
+  {
+    "date": "03/29/17",
+    "name": "German Election: Live Results",
+    "link": "https://www.wsj.com/graphics/german-election-2017-live-results/",
+    "img": "german.jpg",
+    "org": "WSJ",
+    "desc": "I created live embeddable graphics for the German election. The charts had several different modes as we switched from projections, to interim results and finally to preliminary results. We used web sockets for immediate updates, no refresh required."
+  },
+  {
+    "date": "03/29/17",
+    "name": "ECB Meets, Euro Reacts",
+    "link": "https://www.wsj.com/graphics/ecb-meets-euro-reacts/",
+    "img": "ecb.jpg",
+    "org": "WSJ",
+    "desc": "This interactive automatically tracks euro movements live during European Central Bank meetings, archives the data when it's done tracking and adds a new line to the chart for context. Editors can choose which meetings to highlight and annotate."
+  },
+  {
+    "date": "03/29/17",
+    "name": "The U.K.-EU Trade Challenge",
+    "link": "https://www.wsj.com/graphics/uk-eu-trade/",
+    "img": "trade.jpg",
+    "org": "WSJ",
+    "desc": "The U.K. wants to negotiate a sweeping free-trade deal with the EU to replace its single-market membership after Brexit. I visualized the complex trade relationship between the two."
+  },
+  {
+    "date": "10/05/15",
+    "name": "Activist Investor Report Card",
+    "link": "http://graphics.wsj.com/activist-investor/",
+    "img" : "activism.jpg",
+    "org": "WSJ",
+    "desc": "We analyzed what happened at large U.S. companies that were targeted by activist investors. I worked on the data analysis, visualizations and helped develop a tool for editors to update the page. Here's a look at <a href='https://www.wsj.com/articles/the-methodology-for-activist-investor-report-card-1444067991' target='_blank'>our methodology</a>."
+  },
+  {
+    "date": "04/19/17",
+    "name": "Voices from the French Election",
+    "link": "http://www.wsj.com/graphics/voices-from-the-french-election/",
+    "img": "france.gif",
+    "org": "WSJ",
+    "desc": "I helped design and develop The Wall Street Journal's feature of French voters ahead of Macron's election."
+  },
+  {
+    "date": "06/03/15",
+    "name": "Six Faces in the Race to Pump More Oil",
+    "link": "http://graphics.wsj.com/global-oil-men/",
+    "img": "oil.jpg",
+    "org": "WSJ",
+    "desc": "Among the world's top producers, Russia, Iraq, Canada and China are pumping flat out. Take a look at some of the prominent people behind the boom."
+  },
+  {
+    "date": "06/17/14",
+    "name": "Spot the Ball",
+    "link": "https://www.nytimes.com/interactive/projects/spot-the-ball/2014/06/17",
+    "img": "spottheball2.png",
+    "org": "NYT",
+    "desc": "I worked on the front-end development and design implementation for The New York Times' World Cup game."
+  },
+  {
+    "date": "10/15/15",
+    "name": "How International Students Are Changing U.S. Colleges",
+    "link": "http://graphics.wsj.com/international-students/",
+    "img": "students.jpg",
+    "org": "WSJ",
+    "desc": "The number of international students attending U.S. universities has increased dramatically in recent years. I worked with our investigative team to show how the change has affected individual states and schools."
+  },
+  {
+    "date": "03/04/15",
+    "name": "Resource Manual",
+    "link": "http://colleenmcenaney.com/compass-resource-manual/",
+    "org": "CC",
+    "desc": "I created a public, searchable resource manual from an existing internal set of Google sheets that had been maintained by volunteers and staff. My goal was to make a manual that fit within their current workflow and didn't require additional training to use."
+  }
+]
